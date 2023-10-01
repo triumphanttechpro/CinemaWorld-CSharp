@@ -59,13 +59,10 @@ The web application provides modern graphical interface for work. The applicatio
 ## :floppy_disk: Database Diagram
 ![](https://res.cloudinary.com/cinemaworld/image/upload/v1589836846/dbDiagram_vo8k3k.jpg)
 
-## Link
-https://cinemaworld.azurewebsites.net
-
 ## Screenshots
 
 ### Home page
-![Home page 1](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/home-page-1.jpg)
+![Home page 1](screenshots/home-page-1.jpg)
 ![Home page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/home-page-2.jpg)
 ![Home page 3](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/home-page-3.jpg)
 

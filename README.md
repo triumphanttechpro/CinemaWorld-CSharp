@@ -1,7 +1,7 @@
 # ASP.NET Core Cinema World
 
 [![Build Status](https://dev.azure.com/DyNaMiXx7/Cinema%20World/_apis/build/status/triumphanttechpro.CinemaWorld?branchName=master)](https://dev.azure.com/DyNaMiXx7/Cinema%20World/_build/latest?definitionId=1&branchName=master)
-[![GitHub license](https://img.shields.io/github/license/triumphanttechpro/CinemaWorld?color=brightgreen)](https://github.com/triumphanttechpro/CinemaWorld/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/triumphanttechpro/CinemaWorld?color=brightgreen)](LICENSE)
 
 ## :point_right: Project Introduction :point_left:
 
@@ -35,7 +35,7 @@ The web application provides modern graphical interface for work. The applicatio
 
 ## Unit tests Code coverage
 
-![Code coverage](https://github.com/triumphanttechpro/CinemaWorld/blob/master/tests-code-coverage.png)
+![Code coverage](tests-code-coverage.png)
 
 ## :hammer: Used technologies
 * ASP.NET [CORE 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1 "CORE 3.1") MVC
@@ -63,50 +63,50 @@ The web application provides modern graphical interface for work. The applicatio
 
 ### Home page
 ![Home page 1](screenshots/home-page-1.jpg)
-![Home page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/home-page-2.jpg)
-![Home page 3](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/home-page-3.jpg)
+![Home page 2](screenshots/home-page-2.jpg)
+![Home page 3](screenshots/home-page-3.jpg)
 
 ### Login/Register Dialog
-![Login Register Dialog 1](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/login-register-dialog-1.jpg)
-![Login Register Dialog 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/login-register-dialog-2.jpg)
+![Login Register Dialog 1](screenshots/login-register-dialog-1.jpg)
+![Login Register Dialog 2](screenshots/login-register-dialog-2.jpg)
 
 ### Footer
-![Footer](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/footer.jpg)
+![Footer](screenshots/footer.jpg)
 
 ### Movies page
-![Movies page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/movies-page.jpg)
-![Movies single page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/movies-page-single.jpg)
-![Movies add comment](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/movies-add-comment.jpg)
-![Movies sub comments](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/movies-sub-comments.jpg)
+![Movies page](screenshots/movies-page.jpg)
+![Movies single page](screenshots/movies-page-single.jpg)
+![Movies add comment](screenshots/movies-add-comment.jpg)
+![Movies sub comments](screenshots/movies-sub-comments.jpg)
 
 ### Genres page
-![Genres page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/genres-page.jpg)
+![Genres page](screenshots/genres-page.jpg)
 
 ### News page
-![News page 1](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/news-page-1.jpg)
-![News page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/news-page-2.jpg)
-![News single page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/news-single-page.jpg)
+![News page 1](screenshots/news-page-1.jpg)
+![News page 2](screenshots/news-page-2.jpg)
+![News single page](screenshots/news-single-page.jpg)
 
 ### FAQ page
-![FAQ page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/faq-page.jpg)
+![FAQ page](screenshots/faq-page.jpg)
 
 ### Privacy page
-![Privacy page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/privacy-page.jpg)
+![Privacy page](screenshots/privacy-page.jpg)
 
 ### Schedule page
-![Schedule page](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/schedule-page.jpg)
+![Schedule page](screenshots/schedule-page.jpg)
 
 ### Book ticket page
-![Book ticket page 1](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/book-ticket-page-1.jpg)
-![Book ticket page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/book-ticket-page-2.jpg)
-![Book ticket page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/book-ticket-page-3.jpg)
+![Book ticket page 1](screenshots/book-ticket-page-1.jpg)
+![Book ticket page 2](screenshots/book-ticket-page-2.jpg)
+![Book ticket page 2](screenshots/book-ticket-page-3.jpg)
 
 ### Contacts page
-![Contacts page 1](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/contacts-page-1.jpg)
-![Contacts page 2](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/contacts-page-2.jpg)
+![Contacts page 1](screenshots/contacts-page-1.jpg)
+![Contacts page 2](screenshots/contacts-page-2.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](https://github.com/triumphanttechpro/CinemaWorld/blob/master/screenshots/admin-dashboard.jpg)
+![Admin Dashboard](screenshots/admin-dashboard.jpg)
 
 ## Author
 
